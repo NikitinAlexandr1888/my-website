@@ -2,5 +2,6 @@
 ________________________________
 # Любимое приложение _Youtube_
 ________________________________
-*my foto*  
-https://bugaga.ru/uploads/posts/2019-04/1554309346_smeshnye-kotiki-5.jpg
+                    *my foto*  
+
+![1554309346_smeshnye-kotiki-5](https://github.com/NikitinAlexandr1888/my-website/assets/137287403/4102187b-bcc8-42f3-93d5-90865550a1a9)
